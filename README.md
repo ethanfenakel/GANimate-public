@@ -2,7 +2,8 @@
 
 **GANimate** is an ultra-efficient talking-face animation framework that generates realistic lip-synchronized facial motion from a single static portrait and 2D lip landmarks.
 
-The method is designed for human–computer interaction (HCI) scenarios and emphasizes efficiency, modularity, and temporal stability, making it suitable for mobile and edge-device settings.
+The method is designed for human–computer interaction (HCI) scenarios and emphasizes efficiency, modularity, and temporal stability.
+
 
 ---
 
@@ -61,6 +62,11 @@ python ganimate_run.py --res_dir
 ./input
 
 ```
+
+---
+### Run Preprocess to obtain W and G
+python pti_ganimate.py 
+--image_name demo
 
 
 

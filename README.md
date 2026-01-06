@@ -5,19 +5,6 @@
 
 The method is designed for human–computer interaction (HCI) scenarios and emphasizes efficiency, modularity, and temporal stability.
 
-
----
-
-## Overview
-
-GANimate operates by:
-
-- Inverting a static portrait into the latent space of a pre-trained StyleGAN2 model
-- Driving facial animation via lip-landmark–constrained latent space optimization
-- Applying a Kalman filter–based detection and tracking mechanism to improve temporal coherence and reduce jitter
-
-The framework does **not require training** and can be paired with any lip landmark generator.
-
 ---
 
 ### Installation

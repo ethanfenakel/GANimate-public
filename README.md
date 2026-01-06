@@ -1,5 +1,5 @@
 # GANimate
-![GANimate GIF](https://github.com/ethanfenakel/GANimate-public/blob/main/gif.gif)
+![GANimate GIF](https://github.com/ethanfenakel/GANimate-public/blob/main/gif.gif](https://github.com/ethanfenakel/GANimate-public/blob/main/new.gif)
 
 **GANimate** is an ultra-efficient talking-face animation framework that generates realistic lip-synchronized facial motion from a single static portrait and 2D lip landmarks.
 

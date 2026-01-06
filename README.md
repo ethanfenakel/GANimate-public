@@ -65,8 +65,10 @@ python ganimate_run.py --res_dir
 
 ---
 ### Run Preprocess to obtain W and G
+```bash
 python pti_ganimate.py 
 --image_name demo
+```
 
 
 
